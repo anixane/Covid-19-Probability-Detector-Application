@@ -5,5 +5,5 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.9.2
-pickle
+pickle==3.8.2
 pandas==6.1.0
